@@ -1,0 +1,5 @@
+
+Frankmer,Ramirez,20130616,15000.0
+Radhames,Taveras,20130626,25000.0
+Yaneris,Betances,20112196,10000.0
+Gerard,Ogando,20122204,30000.0
